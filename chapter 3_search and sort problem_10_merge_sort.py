@@ -11,7 +11,7 @@ def merge_sort_easy(a):
     n = len(a)
     # 종료 조건
     if n <= 1:
-        reutrn a 
+        return a 
     # 그룹 나누어 병합 정렬 호출
     mid = n // 2
     g1 = merge_sort_easy(a[:mid])
