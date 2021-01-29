@@ -1,4 +1,4 @@
-# Algorithmn Study
+# Algorithm Study
 
 공부했던 알고리즘을 백업하는 저장소입니다.
 
